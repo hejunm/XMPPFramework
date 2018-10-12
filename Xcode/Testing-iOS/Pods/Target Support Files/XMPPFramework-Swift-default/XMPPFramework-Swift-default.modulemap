@@ -1,0 +1,6 @@
+framework module XMPPFramework {
+  umbrella header "XMPPFramework-Swift-default-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -10,6 +10,5 @@ DerivedData
 *.xccheckout
 *.xcscmblueprint
 XMPPFramework*.zip
-
-Pods/
-Carthage/
+#Pods/
+#Carthage/
